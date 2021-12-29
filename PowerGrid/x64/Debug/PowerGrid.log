@@ -1,0 +1,52 @@
+﻿  Aggressive.cpp
+  AuctionView.cpp
+  Card.cpp
+  City.cpp
+  Controller.cpp
+  Deck.cpp
+  Driver.cpp
+  Environmentalist.cpp
+  FactoryCard.cpp
+  FactoryMarket.cpp
+  FactoryMarketView.cpp
+  Graphic.cpp
+  mapLoader.cpp
+  MinimapView.cpp
+  Model.cpp
+  Moderate.cpp
+  Mymap.cpp
+  Observer.cpp
+  Phase1Controller.cpp
+  Phase1View.cpp
+  Generating Code...
+C:\Users\Ghislain\Desktop\Concordia homework\Old\COMP 345\a3_team1_40057664_40065716\PowerGrid\PowerGrid\FactoryCard.cpp(164): warning C4715: 'FactoryCard::activate': not all control paths return a value
+  Compiling...
+  Phase2Controller.cpp
+  Phase2View.cpp
+  Phase3Controller.cpp
+  Phase3View.cpp
+  Phase4Controller.cpp
+  Phase4View.cpp
+  Phase5Controller.cpp
+  Phase5View.cpp
+  Picture.cpp
+  Player.cpp
+  PlayerFactoriesView.cpp
+  PlayerInfoView.cpp
+  PlayerOrderView.cpp
+  Resource.cpp
+  ResourceMarket.cpp
+  ResourceMarketView.cpp
+  SideController.cpp
+  SideView.cpp
+  StartController.cpp
+  StartView.cpp
+  Generating Code...
+  Compiling...
+  Step3Card.cpp
+  Subject.cpp
+  Text.cpp
+  View.cpp
+C:\Users\Ghislain\Desktop\Concordia homework\Old\COMP 345\a3_team1_40057664_40065716\PowerGrid\PowerGrid\View.cpp(43,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  PowerGrid.vcxproj -> C:\Users\Ghislain\Desktop\Concordia homework\Old\COMP 345\a3_team1_40057664_40065716\PowerGrid\x64\Debug\PowerGrid.exe
